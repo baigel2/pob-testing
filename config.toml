@@ -19,12 +19,12 @@ pagination.pagerSize = 10
 # googleAnalytics = ""
 
 [params.author]
-    name = "Jane Doe"
-    email = "jane@doe.com"
+    name = "Adnan Baig"
+    email = "adnan@baig.com"
 
 [params]
-    title = "I'm Jane Doe"
-    description = "Call me Jane"
+    title = "People of The Book"
+    description = "Call me Sputnick"
     profilePicture = "images/colouredQuran.png"
     favicon = "favicons/"
     customCss = []
