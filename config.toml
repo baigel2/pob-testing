@@ -1,5 +1,6 @@
 title = "heyo"
 theme = "heyo-hugo-theme"
+#baseURL = "/"
 baseURL = "https://baigel2.github.io/pob-testing/"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -24,7 +25,7 @@ pagination.pagerSize = 10
 [params]
     title = "I'm Jane Doe"
     description = "Call me Jane"
-    profilePicture = "images/profile.png"
+    profilePicture = "images/colouredQuran.png"
     favicon = "favicons/"
     customCss = []
     customJs = []
