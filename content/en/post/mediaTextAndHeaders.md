@@ -16,6 +16,11 @@ Heyo template with just media text and headers, metadata and footer.
 
 <!--more-->
 
+<!-- Test this
+
+<img src="Isolated.png" alt="isolated" width="200"/>
+
+-->
 
 # H1 - level heading.
 
