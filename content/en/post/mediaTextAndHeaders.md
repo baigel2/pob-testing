@@ -32,7 +32,10 @@ Heyo template with just media text and headers, metadata and footer.
 Heyo template with just media text and headers, metadata and footer.
 
 
-![ColouredQuran](/images/colouredQuran.png)
+<!--![ColouredQuran](/images/colouredQuran.png)-->
+
+
+![ColouredQuran](https://baigel2.github.io/pob-testing/images/colouredQuran.png)
 
 
 
