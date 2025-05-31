@@ -29,7 +29,7 @@ Heyo template with just media text and headers, metadata and footer.
 
 
 
-![coloured Quran:](/static/images/colouredQuran.png)
+![coloured Quran:](/images/colouredQuran.png)
 
 
 
@@ -54,7 +54,7 @@ Heyo template with just media text and headers, metadata and footer.
 
 
 
-![combining prayers](/static/images/combiningPrayers.png)
+![combining prayers](/images/combiningPrayers.png)
 
 
 #### H4 - level heading.
