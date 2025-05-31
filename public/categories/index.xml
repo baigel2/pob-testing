@@ -11,10 +11,10 @@
     <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Experiments</title>
-      <link>//localhost:1313/categories/experiments/</link>
+      <title>Religious Divergence</title>
+      <link>//localhost:1313/categories/religious-divergence/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>//localhost:1313/categories/experiments/</guid>
+      <guid>//localhost:1313/categories/religious-divergence/</guid>
       <description></description>
     </item>
     <item>

@@ -11,11 +11,46 @@
     <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>5 Minute Hifz</title>
-      <link>//localhost:1313/post/hifz1/</link>
+      <title>Headers and text.</title>
+      <link>//localhost:1313/post/headersandtext/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>//localhost:1313/post/hifz1/</guid>
-      <description>&lt;p&gt;A first principles approach to Quran memorisation. For peoople who want to be Hafeez or learn some Quran but can&amp;rsquo;t find the time.&lt;/p&gt;</description>
+      <guid>//localhost:1313/post/headersandtext/</guid>
+      <description>&lt;p&gt;Heyo template with headers and text, metadata and footer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just headers.</title>
+      <link>//localhost:1313/post/justheaders/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/justheaders/</guid>
+      <description>&lt;p&gt;Heyo template with just headers, metadata and footer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just media</title>
+      <link>//localhost:1313/post/justmedia/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/justmedia/</guid>
+      <description>&lt;p&gt;Heyo template with just media, metadata and footer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just text</title>
+      <link>//localhost:1313/post/justtext/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/justtext/</guid>
+      <description>&lt;p&gt;Heyo template with just text, metadata and footer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Media text and headers.</title>
+      <link>//localhost:1313/post/mediatextandheaders/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/mediatextandheaders/</guid>
+      <description>&lt;p&gt;Heyo template with just media text and headers, metadata and footer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shia vs Sunni, why &#34;vs&#34;?</title>
+      <link>//localhost:1313/post/shiasunniwhy/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/shiasunniwhy/</guid>
+      <description>&lt;p&gt;Born into a Sunni family, I&amp;rsquo;ve been learning about and exploring Shia Islam. Here are my thoughts so far.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CJK Glyphs</title>
@@ -30,6 +65,13 @@
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
       <guid>//localhost:1313/post/custom/</guid>
       <description>&lt;p&gt;With custom CSS and JavaScript you can change pretty much anything in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt; appearance or functionality, and it&amp;rsquo;s pretty simple, too!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aristotle - Wisdom of the ages (part 1).</title>
+      <link>//localhost:1313/post/2shia/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/2shia/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;first-an-introduction-to-the-series-wisdom-of-the-ages&#34;&gt;First, an introduction to the series. Wisdom of the ages:&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Those who fail to learn from history are doomed to repeat it.” - Winston Churchill.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;This is true, not just for societies and cultures at large, across centuries and millennia, but across decades, years, months and days in and throughout our own individual lives.&lt;/p&gt;&#xA;&lt;p&gt;If you fail to learn from the mistakes of your past, you will keep repeating them and they will, time and time again, halt your progress forward, upwards, to becoming a better version of yourself.&lt;/p&gt;&#xA;&lt;p&gt;The great thing about the ancient times is, how similar they were to our times. Sure, they may not have had the internet, computers, television or even electricity, but the human mind hasn’t changed so much in the last few thousand years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aristotle - Wisdom of the ages (part 1).</title>

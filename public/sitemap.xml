@@ -2,31 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/post/hifz1/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/categories/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/experiments/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/hafiz/</loc>
+    <loc>//localhost:1313/post/headersandtext/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hifz/</loc>
+    <loc>//localhost:1313/tags/islam/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/memorisation/</loc>
+    <loc>//localhost:1313/post/justheaders/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/justmedia/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/justtext/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/mediatextandheaders/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/quran/</loc>
+    <loc>//localhost:1313/categories/religious-divergence/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/shia-vs-sunni/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/shiasunniwhy/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
@@ -58,6 +67,9 @@
   </url><url>
     <loc>//localhost:1313/tags/js/</loc>
     <lastmod>2023-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/2shia/</loc>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/aristotle/</loc>
     <lastmod>2023-10-31T00:00:00+00:00</lastmod>

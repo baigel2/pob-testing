@@ -11,31 +11,17 @@
     <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hafiz</title>
-      <link>//localhost:1313/tags/hafiz/</link>
+      <title>Islam</title>
+      <link>//localhost:1313/tags/islam/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>//localhost:1313/tags/hafiz/</guid>
+      <guid>//localhost:1313/tags/islam/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hifz</title>
-      <link>//localhost:1313/tags/hifz/</link>
+      <title>Shia vs Sunni</title>
+      <link>//localhost:1313/tags/shia-vs-sunni/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>//localhost:1313/tags/hifz/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Memorisation</title>
-      <link>//localhost:1313/tags/memorisation/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>//localhost:1313/tags/memorisation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Quran</title>
-      <link>//localhost:1313/tags/quran/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>//localhost:1313/tags/quran/</guid>
+      <guid>//localhost:1313/tags/shia-vs-sunni/</guid>
       <description></description>
     </item>
     <item>

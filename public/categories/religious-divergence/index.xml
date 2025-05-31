@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Religious Divergence on heyo</title>
+    <link>//localhost:1313/categories/religious-divergence/</link>
+    <description>Recent content in Religious Divergence on heyo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>jane@doe.com (Jane Doe)</managingEditor>
+    <webMaster>jane@doe.com (Jane Doe)</webMaster>
+    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/religious-divergence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Headers and text.</title>
+      <link>//localhost:1313/post/headersandtext/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/headersandtext/</guid>
+      <description>&lt;p&gt;Heyo template with headers and text, metadata and footer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just headers.</title>
+      <link>//localhost:1313/post/justheaders/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/justheaders/</guid>
+      <description>&lt;p&gt;Heyo template with just headers, metadata and footer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just media</title>
+      <link>//localhost:1313/post/justmedia/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/justmedia/</guid>
+      <description>&lt;p&gt;Heyo template with just media, metadata and footer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just text</title>
+      <link>//localhost:1313/post/justtext/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/justtext/</guid>
+      <description>&lt;p&gt;Heyo template with just text, metadata and footer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Media text and headers.</title>
+      <link>//localhost:1313/post/mediatextandheaders/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/mediatextandheaders/</guid>
+      <description>&lt;p&gt;Heyo template with just media text and headers, metadata and footer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shia vs Sunni, why &#34;vs&#34;?</title>
+      <link>//localhost:1313/post/shiasunniwhy/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/shiasunniwhy/</guid>
+      <description>&lt;p&gt;Born into a Sunni family, I&amp;rsquo;ve been learning about and exploring Shia Islam. Here are my thoughts so far.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
