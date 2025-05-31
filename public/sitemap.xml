@@ -2,124 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pob-testing/categories/</loc>
+    <loc>https://baigel2.github.io/pob-testing/categories/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://baigel2.github.io/pob-testing/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://baigel2.github.io/pob-testing/tags/islam/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://baigel2.github.io/pob-testing/post/newpost/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://baigel2.github.io/pob-testing/post/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://baigel2.github.io/pob-testing/categories/religious-divergence/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://baigel2.github.io/pob-testing/tags/shia-vs-sunni/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://baigel2.github.io/pob-testing/tags/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://baigel2.github.io/pob-testing/post/evolutionlabels/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pob-testing/</loc>
+    <loc>https://baigel2.github.io/pob-testing/post/islengththeproblem/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/islam/</loc>
+    <loc>https://baigel2.github.io/pob-testing/post/mediatextandheaders/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pob-testing/post/mediatextandheaders/</loc>
+    <loc>https://baigel2.github.io/pob-testing/categories/religion/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pob-testing/post/</loc>
+    <loc>https://baigel2.github.io/pob-testing/tags/religion-vs-science/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pob-testing/categories/religious-divergence/</loc>
+    <loc>https://baigel2.github.io/pob-testing/categories/science/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/shia-vs-sunni/</loc>
+    <loc>https://baigel2.github.io/pob-testing/post/shiasunnivs/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/</loc>
-    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/about/</loc>
+    <loc>https://baigel2.github.io/pob-testing/about/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/cjk/</loc>
-    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/post/cjk/</loc>
-    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/categories/heyo/</loc>
-    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/theme/</loc>
-    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/css/</loc>
-    <lastmod>2023-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/post/custom/</loc>
-    <lastmod>2023-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/customization/</loc>
-    <lastmod>2023-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/js/</loc>
-    <lastmod>2023-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/post/aristotle/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/happiness/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/purpose/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/self-improvement/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/series/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/series/seriesname/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/creative-coding/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/html/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/javascript/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/markdown/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/post/markdown-syntax/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/p5js/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/post/sketches/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/categories/syntax/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/categories/themes/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/themes/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/series/themes-guide/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/post/thumbnail/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/tags/shortcodes/</loc>
-    <lastmod>2023-08-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/post/callouts/</loc>
-    <lastmod>2023-08-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/post/toc/</loc>
-    <lastmod>2023-08-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/post/rendering-math-stuff/</loc>
-    <lastmod>2023-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pob-testing/post/badges/</loc>
-    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+    <loc>https://baigel2.github.io/pob-testing/series/</loc>
   </url>
 </urlset>

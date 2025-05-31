@@ -2,40 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on heyo</title>
-    <link>http://localhost:1313/pob-testing/categories/</link>
+    <link>https://baigel2.github.io/pob-testing/categories/</link>
     <description>Recent content in Categories on heyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>jane@doe.com (Jane Doe)</managingEditor>
     <webMaster>jane@doe.com (Jane Doe)</webMaster>
-    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pob-testing/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://baigel2.github.io/pob-testing/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Religious Divergence</title>
-      <link>http://localhost:1313/pob-testing/categories/religious-divergence/</link>
+      <link>https://baigel2.github.io/pob-testing/categories/religious-divergence/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>https://baigel2.github.io/pob-testing/categories/religious-divergence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Religion</title>
+      <link>https://baigel2.github.io/pob-testing/categories/religion/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/categories/religious-divergence/</guid>
+      <guid>https://baigel2.github.io/pob-testing/categories/religion/</guid>
       <description></description>
     </item>
     <item>
-      <title>Heyo</title>
-      <link>http://localhost:1313/pob-testing/categories/heyo/</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/categories/heyo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Syntax</title>
-      <link>http://localhost:1313/pob-testing/categories/syntax/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/categories/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>http://localhost:1313/pob-testing/categories/themes/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/categories/themes/</guid>
+      <title>Science</title>
+      <link>https://baigel2.github.io/pob-testing/categories/science/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>https://baigel2.github.io/pob-testing/categories/science/</guid>
       <description></description>
     </item>
   </channel>

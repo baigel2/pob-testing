@@ -2,131 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on heyo</title>
-    <link>http://localhost:1313/pob-testing/tags/</link>
+    <link>https://baigel2.github.io/pob-testing/tags/</link>
     <description>Recent content in Tags on heyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>jane@doe.com (Jane Doe)</managingEditor>
     <webMaster>jane@doe.com (Jane Doe)</webMaster>
-    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pob-testing/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://baigel2.github.io/pob-testing/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Islam</title>
-      <link>http://localhost:1313/pob-testing/tags/islam/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/islam/</guid>
+      <link>https://baigel2.github.io/pob-testing/tags/islam/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>https://baigel2.github.io/pob-testing/tags/islam/</guid>
       <description></description>
     </item>
     <item>
       <title>Shia vs Sunni</title>
-      <link>http://localhost:1313/pob-testing/tags/shia-vs-sunni/</link>
+      <link>https://baigel2.github.io/pob-testing/tags/shia-vs-sunni/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>https://baigel2.github.io/pob-testing/tags/shia-vs-sunni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Religion vs Science</title>
+      <link>https://baigel2.github.io/pob-testing/tags/religion-vs-science/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/shia-vs-sunni/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CJK</title>
-      <link>http://localhost:1313/pob-testing/tags/cjk/</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/cjk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theme</title>
-      <link>http://localhost:1313/pob-testing/tags/theme/</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/theme/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Css</title>
-      <link>http://localhost:1313/pob-testing/tags/css/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Customization</title>
-      <link>http://localhost:1313/pob-testing/tags/customization/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/customization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>JS</title>
-      <link>http://localhost:1313/pob-testing/tags/js/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/js/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Happiness</title>
-      <link>http://localhost:1313/pob-testing/tags/happiness/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/happiness/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Purpose</title>
-      <link>http://localhost:1313/pob-testing/tags/purpose/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/purpose/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Self Improvement</title>
-      <link>http://localhost:1313/pob-testing/tags/self-improvement/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/self-improvement/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Creative Coding</title>
-      <link>http://localhost:1313/pob-testing/tags/creative-coding/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/creative-coding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Html</title>
-      <link>http://localhost:1313/pob-testing/tags/html/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Javascript</title>
-      <link>http://localhost:1313/pob-testing/tags/javascript/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/javascript/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/pob-testing/tags/markdown/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>P5js</title>
-      <link>http://localhost:1313/pob-testing/tags/p5js/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/p5js/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>http://localhost:1313/pob-testing/tags/themes/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/themes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>http://localhost:1313/pob-testing/tags/shortcodes/</link>
-      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>http://localhost:1313/pob-testing/tags/shortcodes/</guid>
+      <guid>https://baigel2.github.io/pob-testing/tags/religion-vs-science/</guid>
       <description></description>
     </item>
   </channel>
