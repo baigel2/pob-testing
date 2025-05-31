@@ -30,7 +30,7 @@ pagination.pagerSize = 10
     customCss = []
     customJs = []
     displayMode = "light"
-    images = ['images/profile.png']
+    images = ['images/colouredQuran.png']
 
 [taxonomies]
     series = 'series'
