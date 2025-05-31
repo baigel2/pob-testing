@@ -32,7 +32,7 @@ Heyo template with just media text and headers, metadata and footer.
 Heyo template with just media text and headers, metadata and footer.
 
 
-![combining prayers](/images/colouredQuran.png)
+![ColouredQuran](/images/colouredQuran.png)
 
 
 
@@ -58,7 +58,7 @@ Heyo template with just media text and headers, metadata and footer.
 
 
 
-![combining prayers](/images/combiningPrayers.png)
+![CombiningPrayers](/images/combiningPrayers.png)
 
 
 
