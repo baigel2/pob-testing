@@ -1,6 +1,6 @@
 title = "heyo"
 theme = "heyo-hugo-theme"
-baseURL = "/"
+baseURL = "https://baigel2.github.io/pob-testing/"
 languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
