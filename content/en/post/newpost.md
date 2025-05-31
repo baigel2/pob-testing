@@ -34,8 +34,8 @@ We an see examples of this given by Allah in the Quran such as Al-Ma'idah verse 
 
 <br>
 
-> **"When it is said to them, "Come to Allah's revelations and to the Messenger," they reply, "What we found our forefathers practicing is good enough for us." Would they still do so, even if their forefathers had absolutely no knowledge or guidance?"** - Quran 5:104
-
+<!-- > **"When it is said to them, "Come to Allah's revelations and to the Messenger," they reply, "What we found our forefathers practicing is good enough for us." Would they still do so, even if their forefathers had absolutely no knowledge or guidance?"** - Quran 5:104
+-->
 <br>
 
 [Source: https://quran.com/al-maidah/104](https://quran.com/al-maidah/104)

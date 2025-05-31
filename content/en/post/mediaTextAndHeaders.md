@@ -34,9 +34,11 @@ Heyo template with just media text and headers, metadata and footer.
 
 <!--![ColouredQuran](/images/colouredQuran.png)-->
 
+<br>
 
-![ColouredQuran](https://baigel2.github.io/pob-testing/images/colouredQuran.png)
+> **this is a blockquote with a reference after it" and "multiple speechmarks.** - this is a fake reference do not follow it.
 
+<br>
 
 
 
