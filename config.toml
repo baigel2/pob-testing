@@ -23,8 +23,8 @@ pagination.pagerSize = 10
     email = "adnan@baig.com"
 
 [params]
-    title = "People of The Book"
-    description = "Call me Sputnick"
+    title = "PeopleofTheBook"
+    description = "CallmeSputnick"
     profilePicture = "images/colouredQuran.png"
     favicon = "favicons/"
     customCss = []
