@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CJK on heyo</title>
+    <link>//localhost:1313/tags/cjk/</link>
+    <description>Recent content in CJK on heyo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>jane@doe.com (Jane Doe)</managingEditor>
+    <webMaster>jane@doe.com (Jane Doe)</webMaster>
+    <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/cjk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CJK Glyphs</title>
+      <link>//localhost:1313/post/cjk/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/cjk/</guid>
+      <description>&lt;p&gt;Test post for CJK Glyphs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

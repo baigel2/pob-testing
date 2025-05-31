@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self Improvement on heyo</title>
+    <link>//localhost:1313/tags/self-improvement/</link>
+    <description>Recent content in Self Improvement on heyo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>jane@doe.com (Jane Doe)</managingEditor>
+    <webMaster>jane@doe.com (Jane Doe)</webMaster>
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/self-improvement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aristotle - Wisdom of the ages (part 1).</title>
+      <link>//localhost:1313/post/aristotle/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <guid>//localhost:1313/post/aristotle/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;first-an-introduction-to-the-series-wisdom-of-the-ages&#34;&gt;First, an introduction to the series. Wisdom of the ages:&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;“Those who fail to learn from history are doomed to repeat it.” - Winston Churchill.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;This is true, not just for societies and cultures at large, across centuries and millennia, but across decades, years, months and days in and throughout our own individual lives.&lt;/p&gt;&#xA;&lt;p&gt;If you fail to learn from the mistakes of your past, you will keep repeating them and they will, time and time again, halt your progress forward, upwards, to becoming a better version of yourself.&lt;/p&gt;&#xA;&lt;p&gt;The great thing about the ancient times is, how similar they were to our times. Sure, they may not have had the internet, computers, television or even electricity, but the human mind hasn’t changed so much in the last few thousand years.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
