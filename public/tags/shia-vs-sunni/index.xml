@@ -2,33 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shia vs Sunni on heyo</title>
-    <link>https://baigel2.github.io/pob-testing/tags/shia-vs-sunni/</link>
+    <link>http://localhost:1313/pob-testing/tags/shia-vs-sunni/</link>
     <description>Recent content in Shia vs Sunni on heyo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>jane@doe.com (Jane Doe)</managingEditor>
-    <webMaster>jane@doe.com (Jane Doe)</webMaster>
-    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://baigel2.github.io/pob-testing/tags/shia-vs-sunni/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>New post.</title>
-      <link>https://baigel2.github.io/pob-testing/post/newpost/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/newpost/</guid>
-      <description>&lt;p&gt;Copy of shia sunni. written from scratch manually.&lt;/p&gt;</description>
-    </item>
+    <managingEditor>adnan@baig.com (Adnan Baig)</managingEditor>
+    <webMaster>adnan@baig.com (Adnan Baig)</webMaster>
+    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pob-testing/tags/shia-vs-sunni/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is length the problem?</title>
-      <link>https://baigel2.github.io/pob-testing/post/islengththeproblem/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/islengththeproblem/</guid>
+      <link>http://localhost:1313/pob-testing/post/islengththeproblem/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>http://localhost:1313/pob-testing/post/islengththeproblem/</guid>
       <description>&lt;p&gt;It the length of the post the problem?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Media text and headers.</title>
-      <link>https://baigel2.github.io/pob-testing/post/mediatextandheaders/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/mediatextandheaders/</guid>
+      <link>http://localhost:1313/pob-testing/post/mediatextandheaders/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>http://localhost:1313/pob-testing/post/mediatextandheaders/</guid>
       <description>&lt;p&gt;Heyo template with just media text and headers, metadata and footer.&lt;/p&gt;</description>
     </item>
   </channel>

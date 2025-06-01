@@ -6,29 +6,36 @@
     <description>Recent content in Categories on heyo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>jane@doe.com (Jane Doe)</managingEditor>
-    <webMaster>jane@doe.com (Jane Doe)</webMaster>
-    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <managingEditor>adnan@baig.com (Adnan Baig)</managingEditor>
+    <webMaster>adnan@baig.com (Adnan Baig)</webMaster>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://baigel2.github.io/pob-testing/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Religious Divergence</title>
-      <link>https://baigel2.github.io/pob-testing/categories/religious-divergence/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/categories/religious-divergence/</guid>
+      <title>Cat1</title>
+      <link>https://baigel2.github.io/pob-testing/categories/cat1/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>https://baigel2.github.io/pob-testing/categories/cat1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cat2</title>
+      <link>https://baigel2.github.io/pob-testing/categories/cat2/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>https://baigel2.github.io/pob-testing/categories/cat2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Islam</title>
+      <link>https://baigel2.github.io/pob-testing/categories/islam/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>https://baigel2.github.io/pob-testing/categories/islam/</guid>
       <description></description>
     </item>
     <item>
       <title>Religion</title>
       <link>https://baigel2.github.io/pob-testing/categories/religion/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
       <guid>https://baigel2.github.io/pob-testing/categories/religion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Science</title>
-      <link>https://baigel2.github.io/pob-testing/categories/science/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/categories/science/</guid>
       <description></description>
     </item>
   </channel>

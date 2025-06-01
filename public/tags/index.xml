@@ -6,29 +6,22 @@
     <description>Recent content in Tags on heyo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>jane@doe.com (Jane Doe)</managingEditor>
-    <webMaster>jane@doe.com (Jane Doe)</webMaster>
-    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <managingEditor>adnan@baig.com (Adnan Baig)</managingEditor>
+    <webMaster>adnan@baig.com (Adnan Baig)</webMaster>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://baigel2.github.io/pob-testing/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Islam</title>
-      <link>https://baigel2.github.io/pob-testing/tags/islam/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/tags/islam/</guid>
+      <title>Humanity</title>
+      <link>https://baigel2.github.io/pob-testing/tags/humanity/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>https://baigel2.github.io/pob-testing/tags/humanity/</guid>
       <description></description>
     </item>
     <item>
-      <title>Shia vs Sunni</title>
-      <link>https://baigel2.github.io/pob-testing/tags/shia-vs-sunni/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/tags/shia-vs-sunni/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Religion vs Science</title>
-      <link>https://baigel2.github.io/pob-testing/tags/religion-vs-science/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/tags/religion-vs-science/</guid>
+      <title>Tags</title>
+      <link>https://baigel2.github.io/pob-testing/tags/tags/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>https://baigel2.github.io/pob-testing/tags/tags/</guid>
       <description></description>
     </item>
   </channel>

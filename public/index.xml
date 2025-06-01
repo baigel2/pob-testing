@@ -6,49 +6,35 @@
     <description>Recent content on heyo</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>jane@doe.com (Jane Doe)</managingEditor>
-    <webMaster>jane@doe.com (Jane Doe)</webMaster>
-    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <managingEditor>adnan@baig.com (Adnan Baig)</managingEditor>
+    <webMaster>adnan@baig.com (Adnan Baig)</webMaster>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://baigel2.github.io/pob-testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New post.</title>
-      <link>https://baigel2.github.io/pob-testing/post/newpost/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/newpost/</guid>
-      <description>&lt;p&gt;Copy of shia sunni. written from scratch manually.&lt;/p&gt;</description>
+      <title>A messenger for every nation.</title>
+      <link>https://baigel2.github.io/pob-testing/post/messengernation1/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>https://baigel2.github.io/pob-testing/post/messengernation1/</guid>
+      <description>&lt;p&gt;A look into the traces of monotheism in pre Abrahamic religions.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Evolution, theory or hypothesis?</title>
-      <link>https://baigel2.github.io/pob-testing/post/evolutionlabels/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/evolutionlabels/</guid>
-      <description>&lt;p&gt;The importance of understanding basic scientific language in context.&lt;/p&gt;</description>
+      <title>Humanity.</title>
+      <link>https://baigel2.github.io/pob-testing/post/humanity1/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>https://baigel2.github.io/pob-testing/post/humanity1/</guid>
+      <description>&lt;p&gt;How we treat each other matters more than what we believe.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Is length the problem?</title>
-      <link>https://baigel2.github.io/pob-testing/post/islengththeproblem/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/islengththeproblem/</guid>
-      <description>&lt;p&gt;It the length of the post the problem?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Media text and headers.</title>
-      <link>https://baigel2.github.io/pob-testing/post/mediatextandheaders/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/mediatextandheaders/</guid>
-      <description>&lt;p&gt;Heyo template with just media text and headers, metadata and footer.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shia sunni why</title>
-      <link>https://baigel2.github.io/pob-testing/post/shiasunnivs/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/shiasunnivs/</guid>
-      <description>&lt;p&gt;The importance of understanding basic scientific language in context.&lt;/p&gt;</description>
+      <title>Title</title>
+      <link>https://baigel2.github.io/pob-testing/post/draftpost/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>https://baigel2.github.io/pob-testing/post/draftpost/</guid>
+      <description>&lt;p&gt;Brief&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>https://baigel2.github.io/pob-testing/about/</link>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate><author>jane@doe.com (Jane Doe)</author>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
       <guid>https://baigel2.github.io/pob-testing/about/</guid>
       <description>&lt;p&gt;I wanted to make a blog that focused more on Islam as a pose to just a general blog like &lt;a href=&#34;baigelbytes.com&#34;&gt;baigelbytes.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Also, I&amp;rsquo;ve been learning about and exploring Shia Islam for a few months at least as of writing this (05.2025) and I feel like Shia Islam is severely under reprisented in the public eye.&lt;/p&gt;&#xA;&lt;p&gt;One could say that this is because there are less Shias in the world compared to Sunni&amp;rsquo;s but then there are less vegans in the world compared to non-vegans and you can&amp;rsquo;t go to a western country at least where the term hasn&amp;rsquo;t been at least heard of.&lt;/p&gt;</description>
     </item>
