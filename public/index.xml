@@ -45,5 +45,12 @@
       <guid>https://baigel2.github.io/pob-testing/about/</guid>
       <description>&lt;p&gt;I wanted to make a blog that focused more on Islam as a pose to just a general blog like &lt;a href=&#34;baigelbytes.com&#34;&gt;baigelbytes.com&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Also, I&amp;rsquo;ve been learning about and exploring Shia Islam for a few months at least as of writing this (05.2025) and I feel like Shia Islam is severely under reprisented in the public eye.&lt;/p&gt;&#xA;&lt;p&gt;One could say that this is because there are less Shias in the world compared to Sunni&amp;rsquo;s but then there are less vegans in the world compared to non-vegans and you can&amp;rsquo;t go to a western country at least where the term hasn&amp;rsquo;t been at least heard of.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Sketches!</title>
+      <link>https://baigel2.github.io/pob-testing/post/sketches/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>https://baigel2.github.io/pob-testing/post/sketches/</guid>
+      <description>&lt;p&gt;Sketches are the pretty visualizations in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;&amp;rsquo;s sidebar. The default ones were built using &lt;a href=&#34;https://p5js.org/&#34;&gt;p5.js&lt;/a&gt; &amp;ndash; a javascript library for creative coding.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

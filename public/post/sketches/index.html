@@ -1,15 +1,22 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="light"><head>
-    <title>Tags · Adnan Baig</title>
+    <title>Sketches! · Adnan Baig</title>
     <meta charset="utf-8">
     
     <meta name="generator" content="Hugo 0.145.0">
-    <meta property="og:url" content="https://baigel2.github.io/pob-testing/tags/">
+    <meta property="og:url" content="https://baigel2.github.io/pob-testing/post/sketches/">
   <meta property="og:site_name" content="heyo">
-  <meta property="og:title" content="Tags">
-  <meta property="og:description" content="CallmeSputnick">
+  <meta property="og:title" content="Sketches!">
+  <meta property="og:description" content="Sketches are the pretty visualizations in heyo’s sidebar. The default ones were built using p5.js – a javascript library for creative coding.">
   <meta property="og:locale" content="en">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="post">
+    <meta property="article:published_time" content="2023-08-07T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-08-07T00:00:00+00:00">
+    <meta property="article:tag" content="Theme">
+    <meta property="article:tag" content="P5js">
+    <meta property="article:tag" content="Javascript">
+    <meta property="article:tag" content="Creative Coding">
     <meta property="og:image" content="https://baigel2.github.io/pob-testing/images/colouredQuran.png">
 
 
@@ -70,8 +77,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="https://baigel2.github.io/pob-testing/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://baigel2.github.io/pob-testing/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://baigel2.github.io/pob-testing/favicons/favicon-16x16.png">
-    <link rel="canonical" href="https://baigel2.github.io/pob-testing/tags/">
-    <link rel="alternate" type="application/rss+xml" href="https://baigel2.github.io/pob-testing/tags/index.xml" title="heyo" />
+    <link rel="canonical" href="https://baigel2.github.io/pob-testing/post/sketches/">
     
     
     
@@ -82,8 +88,8 @@
     
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="https://baigel2.github.io/pob-testing/images/colouredQuran.png">
-  <meta name="twitter:title" content="Tags">
-  <meta name="twitter:description" content="CallmeSputnick">
+  <meta name="twitter:title" content="Sketches!">
+  <meta name="twitter:description" content="Sketches are the pretty visualizations in heyo’s sidebar. The default ones were built using p5.js – a javascript library for creative coding.">
 
 </head><body>
         <div class="main">
@@ -178,64 +184,149 @@
     </div>
 </div>
             <div class="content">
-<div class="archive">
-    <ul class="list-with-title">
+<div class="post">
+    
+    <div class="post-title">
+        <h1>Sketches!</h1>
         
-            <div class="listing-title">2025</div>
-            
-                <ul class="listing">
-                    <div class="listing-item">
-                        <div class="listing-post"><a href="https://baigel2.github.io/pob-testing/tags/tags/" title="Tags">Tags</a>
-                            <div class="post-time"><span class="date">Jun 2</span></div>
-                        </div>
-                    </div>
-                </ul>
-            
-                <ul class="listing">
-                    <div class="listing-item">
-                        <div class="listing-post"><a href="https://baigel2.github.io/pob-testing/tags/humanity/" title="Humanity">Humanity</a>
-                            <div class="post-time"><span class="date">Jun 1</span></div>
-                        </div>
-                    </div>
-                </ul>
+            <div class="post-header">
+    <div style="padding-top: 5px;">
+        <i class="far fa-calendar"></i><span class="date">Aug 7, 2023</span>
+        <i class="far fa-clock"></i><span class="reading-time">2 minutes</span>
+        
+
+
+    </div>
+</div>
+        
+    </div>
+    <div class="post-content">
+        <p>Sketches are the pretty visualizations in <a href="https://github.com/LucasVadilho/heyo-hugo-theme">heyo</a>&rsquo;s sidebar. The default ones were built using <a href="https://p5js.org/">p5.js</a> &ndash; a javascript library for creative coding.</p>
+<h1 id="visualizations">Visualizations</h1>
+<p>For now, we have the following visualizations:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Sketch</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Graph</td>
+          <td>Cozy dots moving around to Perlin Noise</td>
+      </tr>
+      <tr>
+          <td>Digital Rain</td>
+          <td>Falling symbols, Matrix style</td>
+      </tr>
+      <tr>
+          <td>Circles</td>
+          <td>Drawing circles with a weird brush</td>
+      </tr>
+  </tbody>
+</table>
+<p>Feel free to suggest or contribute new ones in <a href="https://github.com/LucasVadilho/heyo-hugo-theme">heyo</a>!</p>
+<h1 id="setting-up">Setting up</h1>
+<h2 id="global-configurations">Global Configurations</h2>
+<p>The sketch can be globally enabled by setting the param <code>sketch</code> in <code>config.toml</code>.</p>
+<table>
+  <thead>
+      <tr>
+          <th>Param</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><code>sketch.enable</code></td>
+          <td>controls if the sketch will appear on every page<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></td>
+      </tr>
+      <tr>
+          <td><code>sketch.displayOptions</code></td>
+          <td>controls if sketch settings will be displayed on hover</td>
+      </tr>
+      <tr>
+          <td><code>sketch.use</code></td>
+          <td>selects which sketch will be displayed</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="per-page-basis">Per Page Basis</h2>
+<p>Even with <code>sketch.enable = false</code> in <code>config.toml</code> you can still enable sketches on specific pages, all you need to do is set it up in page&rsquo;s front-matter. That enables you to show different sketches on different pages.</p>
+<h1 id="implement-your-own-sketch">Implement your own sketch</h1>
+<p>Using <code>customJs</code> you can import your own javascript code, so all you have to do to implement your own sketch is:</p>
+<ol>
+<li>Wrap up you sketch in a class</li>
+<li>Make sure that it implements the <code>setup</code> and <code>draw</code> methods (it can also implement <code>mouseWheel</code>, <code>mouseClicked</code>, and <code>getSettings</code>)</li>
+<li>Add your class to the <code>SKETCHES</code> object (<code>SKETCHES['yourName'] = yourClass</code>)</li>
+<li>Set <code>sketch.use</code> to <code>yourName</code></li>
+<li>Consider sending a pull request in <a href="https://github.com/LucasVadilho/heyo-hugo-theme">heyo</a> to share your sketch &#x2764;&#xfe0f;</li>
+</ol>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>The Table of Contents will override the sketch&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+    </div>
+    <div class="post-footer">
+        <div class="info">
+            <span class="separator"><a class="category" href="/pob-testing/categories/heyo/">heyo</a></span>
+            <span class="separator"><a class="tag" href="/pob-testing/tags/theme/">theme</a><a class="tag" href="/pob-testing/tags/p5js/">p5js</a><a class="tag" href="/pob-testing/tags/javascript/">javascript</a><a class="tag" href="/pob-testing/tags/creative-coding/">creative coding</a></span>
+        </div>
+        
+
+
+    
+    
+        
+        
+
+        
+        
+
+        
+        
+        
+        
+        
+
+        
+
+        
+
+        
+
+        
             
         
-            <div class="listing-title">2023</div>
-            
-                <ul class="listing">
-                    <div class="listing-item">
-                        <div class="listing-post"><a href="https://baigel2.github.io/pob-testing/tags/theme/" title="Theme">Theme</a>
-                            <div class="post-time"><span class="date">Aug 7</span></div>
-                        </div>
-                    </div>
-                </ul>
-            
-                <ul class="listing">
-                    <div class="listing-item">
-                        <div class="listing-post"><a href="https://baigel2.github.io/pob-testing/tags/p5js/" title="P5js">P5js</a>
-                            <div class="post-time"><span class="date">Aug 7</span></div>
-                        </div>
-                    </div>
-                </ul>
-            
-                <ul class="listing">
-                    <div class="listing-item">
-                        <div class="listing-post"><a href="https://baigel2.github.io/pob-testing/tags/javascript/" title="Javascript">Javascript</a>
-                            <div class="post-time"><span class="date">Aug 7</span></div>
-                        </div>
-                    </div>
-                </ul>
-            
-                <ul class="listing">
-                    <div class="listing-item">
-                        <div class="listing-post"><a href="https://baigel2.github.io/pob-testing/tags/creative-coding/" title="Creative Coding">Creative Coding</a>
-                            <div class="post-time"><span class="date">Aug 7</span></div>
-                        </div>
-                    </div>
-                </ul>
+
+        
             
         
-    </ul>
+
+        
+            
+        
+
+        
+            
+        
+
+        
+
+        
+            <a target="_blank" href=https://p5js.org/><img class="badge" src=https://flat.badgen.net/static/p5js/p5js?color&#61;ed225d&amp;icon&#61;https://upload.wikimedia.org/wikipedia/commons/c/c6/P5.js_icon.svg&amp;label&#61;&amp;labelColor&#61;grey&amp; alt=p5js&#32;p5js loading="lazy"/></a>
+        
+    
+
+    </div>
+    
+        
+    
 </div>
 
                 <div class="grow"></div>
