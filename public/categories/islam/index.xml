@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Islam on heyo</title>
-    <link>https://baigel2.github.io/pob-testing/categories/islam/</link>
+    <link>/categories/islam/</link>
     <description>Recent content in Islam on heyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>adnan@baig.com (Adnan Baig)</managingEditor>
     <webMaster>adnan@baig.com (Adnan Baig)</webMaster>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://baigel2.github.io/pob-testing/categories/islam/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/islam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Humanity.</title>
-      <link>https://baigel2.github.io/pob-testing/post/humanity1/</link>
+      <link>/post/humanity1/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/humanity1/</guid>
+      <guid>/post/humanity1/</guid>
       <description>&lt;p&gt;How we treat each other matters more than what we believe.&lt;/p&gt;</description>
     </item>
   </channel>

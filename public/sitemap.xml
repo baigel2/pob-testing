@@ -2,69 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://baigel2.github.io/pob-testing/categories/cat1/</loc>
+    <loc>/categories/cat1/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/categories/cat2/</loc>
+    <loc>/categories/cat2/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/</loc>
+    <loc>/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/post/alkafi1/</loc>
+    <loc>/post/alkafi1/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/tags/tags/</loc>
+    <loc>/tags/tags/</loc>
     <lastmod>2025-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/post/messengernation1/</loc>
+    <loc>/post/messengernation1/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/tags/humanity/</loc>
+    <loc>/tags/humanity/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/post/humanity1/</loc>
+    <loc>/post/humanity1/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/categories/islam/</loc>
+    <loc>/categories/islam/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/categories/religion/</loc>
+    <loc>/categories/religion/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/post/draftpost/</loc>
+    <loc>/post/minimiricle1/</loc>
     <lastmod>2025-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/about/</loc>
+    <loc>/tags/tag1/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/draftpost/</loc>
+    <lastmod>2025-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/tags/creative-coding/</loc>
+    <loc>/tags/creative-coding/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/categories/heyo/</loc>
+    <loc>/categories/heyo/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/tags/javascript/</loc>
+    <loc>/tags/javascript/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/tags/p5js/</loc>
+    <loc>/tags/p5js/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/post/sketches/</loc>
+    <loc>/post/sketches/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/tags/theme/</loc>
+    <loc>/tags/theme/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://baigel2.github.io/pob-testing/series/</loc>
+    <loc>/series/</loc>
   </url>
 </urlset>

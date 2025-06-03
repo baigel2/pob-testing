@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on heyo</title>
-    <link>https://baigel2.github.io/pob-testing/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on heyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>adnan@baig.com (Adnan Baig)</managingEditor>
     <webMaster>adnan@baig.com (Adnan Baig)</webMaster>
     <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://baigel2.github.io/pob-testing/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cat1</title>
-      <link>https://baigel2.github.io/pob-testing/categories/cat1/</link>
+      <link>/categories/cat1/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/categories/cat1/</guid>
+      <guid>/categories/cat1/</guid>
       <description></description>
     </item>
     <item>
       <title>Cat2</title>
-      <link>https://baigel2.github.io/pob-testing/categories/cat2/</link>
+      <link>/categories/cat2/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/categories/cat2/</guid>
+      <guid>/categories/cat2/</guid>
       <description></description>
     </item>
     <item>
       <title>Islam</title>
-      <link>https://baigel2.github.io/pob-testing/categories/islam/</link>
+      <link>/categories/islam/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/categories/islam/</guid>
+      <guid>/categories/islam/</guid>
       <description></description>
     </item>
     <item>
       <title>Religion</title>
-      <link>https://baigel2.github.io/pob-testing/categories/religion/</link>
+      <link>/categories/religion/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/categories/religion/</guid>
+      <guid>/categories/religion/</guid>
       <description></description>
     </item>
     <item>
       <title>Heyo</title>
-      <link>https://baigel2.github.io/pob-testing/categories/heyo/</link>
+      <link>/categories/heyo/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/categories/heyo/</guid>
+      <guid>/categories/heyo/</guid>
       <description></description>
     </item>
   </channel>

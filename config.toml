@@ -1,7 +1,7 @@
 title = "heyo"
 theme = "heyo-hugo-theme"
-#baseURL = "/"
-baseURL = "https://baigel2.github.io/pob-testing/"
+baseURL = "/"
+#baseURL = "https://baigel2.github.io/pob-testing/"
 languageCode = "en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -28,7 +28,7 @@ pagination.pagerSize = 10
     profilePicture = "images/colouredQuran.png"
     favicon = "favicons/"
     customCss = []
-    customJs = []
+    customJs = ["/js/QuoteSketch.js"]
     displayMode = "light"
     images = ['images/colouredQuran.png']
 
@@ -43,7 +43,7 @@ pagination.pagerSize = 10
     enable = true 
     displayOptions = false
     # Graph, Digital Rain, or Circles
-    use = "Circles"
+    use = "quoteFade"
     # JSON that is passed to the sketch constructor
     # You can check all the possible configurations in
     startingConfig = """{

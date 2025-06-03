@@ -2,54 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on heyo</title>
-    <link>https://baigel2.github.io/pob-testing/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on heyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>adnan@baig.com (Adnan Baig)</managingEditor>
     <webMaster>adnan@baig.com (Adnan Baig)</webMaster>
     <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://baigel2.github.io/pob-testing/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tags</title>
-      <link>https://baigel2.github.io/pob-testing/tags/tags/</link>
+      <link>/tags/tags/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/tags/tags/</guid>
+      <guid>/tags/tags/</guid>
       <description></description>
     </item>
     <item>
       <title>Humanity</title>
-      <link>https://baigel2.github.io/pob-testing/tags/humanity/</link>
+      <link>/tags/humanity/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/tags/humanity/</guid>
+      <guid>/tags/humanity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag1</title>
+      <link>/tags/tag1/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>/tags/tag1/</guid>
       <description></description>
     </item>
     <item>
       <title>Creative Coding</title>
-      <link>https://baigel2.github.io/pob-testing/tags/creative-coding/</link>
+      <link>/tags/creative-coding/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/tags/creative-coding/</guid>
+      <guid>/tags/creative-coding/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript</title>
-      <link>https://baigel2.github.io/pob-testing/tags/javascript/</link>
+      <link>/tags/javascript/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/tags/javascript/</guid>
+      <guid>/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>P5js</title>
-      <link>https://baigel2.github.io/pob-testing/tags/p5js/</link>
+      <link>/tags/p5js/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/tags/p5js/</guid>
+      <guid>/tags/p5js/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme</title>
-      <link>https://baigel2.github.io/pob-testing/tags/theme/</link>
+      <link>/tags/theme/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/tags/theme/</guid>
+      <guid>/tags/theme/</guid>
       <description></description>
     </item>
   </channel>

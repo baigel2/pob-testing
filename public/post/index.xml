@@ -2,47 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on heyo</title>
-    <link>https://baigel2.github.io/pob-testing/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on heyo</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>adnan@baig.com (Adnan Baig)</managingEditor>
     <webMaster>adnan@baig.com (Adnan Baig)</webMaster>
     <lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://baigel2.github.io/pob-testing/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kitab Al-Kafi. An Introduction.</title>
-      <link>https://baigel2.github.io/pob-testing/post/alkafi1/</link>
+      <link>/post/alkafi1/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/alkafi1/</guid>
+      <guid>/post/alkafi1/</guid>
       <description>&lt;p&gt;An introduction to Kitab Al-Kafi for non Shias.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A messenger for every nation.</title>
-      <link>https://baigel2.github.io/pob-testing/post/messengernation1/</link>
+      <link>/post/messengernation1/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/messengernation1/</guid>
+      <guid>/post/messengernation1/</guid>
       <description>&lt;p&gt;A look into the traces of monotheism in pre Abrahamic religions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Humanity.</title>
-      <link>https://baigel2.github.io/pob-testing/post/humanity1/</link>
+      <link>/post/humanity1/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/humanity1/</guid>
+      <guid>/post/humanity1/</guid>
       <description>&lt;p&gt;How we treat each other matters more than what we believe.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Title</title>
-      <link>https://baigel2.github.io/pob-testing/post/draftpost/</link>
+      <title>Mini Miricles - Part 1</title>
+      <link>/post/minimiricle1/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/draftpost/</guid>
+      <guid>/post/minimiricle1/</guid>
+      <description>&lt;p&gt;A Series of short posts journaling mini miricles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Title</title>
+      <link>/post/draftpost/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
+      <guid>/post/draftpost/</guid>
       <description>&lt;p&gt;Brief&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sketches!</title>
-      <link>https://baigel2.github.io/pob-testing/post/sketches/</link>
+      <link>/post/sketches/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate><author>adnan@baig.com (Adnan Baig)</author>
-      <guid>https://baigel2.github.io/pob-testing/post/sketches/</guid>
+      <guid>/post/sketches/</guid>
       <description>&lt;p&gt;Sketches are the pretty visualizations in &lt;a href=&#34;https://github.com/LucasVadilho/heyo-hugo-theme&#34;&gt;heyo&lt;/a&gt;&amp;rsquo;s sidebar. The default ones were built using &lt;a href=&#34;https://p5js.org/&#34;&gt;p5.js&lt;/a&gt; &amp;ndash; a javascript library for creative coding.&lt;/p&gt;</description>
     </item>
   </channel>
