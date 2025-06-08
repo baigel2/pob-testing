@@ -1,6 +1,6 @@
 ---
 author: Adnan Baig 
-title: Kitab Al-Kafi. An Introduction.
+title: An introduction to Al-Kafi.
 date: 2025-06-02 
 description: An introduction to Kitab Al-Kafi for non Shias.
 tags: 
