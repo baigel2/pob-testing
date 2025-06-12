@@ -5,7 +5,7 @@ date: 2025-06-12
 description: Some ideas and tips for myself first, on how I might be able to improve productivity and good Islamic habits. Maybe they'll help you too..
 tags: 
     - Productivity
-	- Islam
+    - Islam
 categories:
     - 
     - 
