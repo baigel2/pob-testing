@@ -55,7 +55,7 @@ An affiliate link is a unique link to a product or store that allows me to earn 
 
 Ok let’s get right into it with something I do t even want to hear myself and that I’m guessing you might not want to either:
 
-Sleep.
+# Sleep.
 
 That evil bed! That evil evil bed! Why is it always most comfortable when you’re supposed to be getting up?
 
@@ -79,7 +79,7 @@ Despite having hours less time in the day I was able to get way more done becaus
 
 Once you manage to sort your sleep out then what’s next?
 
-Salah
+# Salah
 
 Why did I not put salah before sleep? Have you tried praying with no sleep?
 
@@ -99,7 +99,9 @@ When you make time for Allah, Allah literally makes time, for you.
 
 You think I am?
 
-Start. That’s how you get there. You get up and go there.
+# Start. Just Start.
+
+That’s how you get there. You get up and go there.
 
 Start small. As small as it takes to build some momentum. Progress is never linear so don’t expect it to be. 
 
